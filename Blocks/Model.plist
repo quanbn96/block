@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Item1</key>
+	<dict>
+		<key>urlString</key>
+		<string>http://media.saoonline.vn/thumb_x600x/upload/396/2015/8/18/sao-viet-so-huu-than-hinh-chuan-saoonline-2%20(1).jpg</string>
+		<key>dataForModel</key>
+		<dict>
+			<key>name</key>
+			<string>Ngọc Trinh</string>
+			<key>height</key>
+			<string>1,71m</string>
+			<key>sodo3vong</key>
+			<string>85-58-91</string>
+		</dict>
+	</dict>
+	<key>Item2</key>
+	<dict>
+		<key>urlString</key>
+		<string>http://media.saoonline.vn/thumb_x600x/upload/396/2015/8/18/sao-viet-so-huu-than-hinh-chuan-saoonline-3.jpg</string>
+		<key>dataForModel</key>
+		<dict>
+			<key>name</key>
+			<string>Mai Phương  Thuý</string>
+			<key>height</key>
+			<string>1,79m</string>
+			<key>sodo3vong</key>
+			<string>89-60-95</string>
+		</dict>
+	</dict>
+	<key>Item3</key>
+	<dict>
+		<key>urlString</key>
+		<string>http://media.saoonline.vn/thumb_x600x/upload/396/2015/8/18/sao-viet-so-huu-than-hinh-chuan-saoonline-6.jpg</string>
+		<key>dataForModel</key>
+		<dict>
+			<key>name</key>
+			<string>Angela Phương Trinh</string>
+			<key>height</key>
+			<string>1,69m</string>
+			<key>sodo3vong</key>
+			<string>84 - 57 - 93</string>
+		</dict>
+	</dict>
+	<key>Item4</key>
+	<dict>
+		<key>urlString</key>
+		<string>http://media.saoonline.vn/thumb_x600x/upload/396/2015/8/18/sao-viet-so-huu-than-hinh-chuan-saoonline-8.jpg</string>
+		<key>dataForModel</key>
+		<dict>
+			<key>name</key>
+			<string>Elly Trần</string>
+			<key>height</key>
+			<string>1,70m</string>
+			<key>sodo3vong</key>
+			<string>88-58-90</string>
+		</dict>
+	</dict>
+	<key>Item5</key>
+	<dict>
+		<key>urlString</key>
+		<string>http://media.saoonline.vn/thumb_x600x/upload/396/2015/8/18/sao-viet-so-huu-than-hinh-chuan-saoonline-13.jpg</string>
+		<key>dataForModel</key>
+		<dict>
+			<key>name</key>
+			<string>Hà Anh</string>
+			<key>height</key>
+			<string>1,75m</string>
+			<key>sodo3vong</key>
+			<string>84-58-92</string>
+		</dict>
+	</dict>
+	<key>Item6</key>
+	<dict>
+		<key>urlString</key>
+		<string>http://media.saoonline.vn/thumb_x600x/upload/396/2015/8/18/sao-viet-so-huu-than-hinh-chuan-saoonline-12.jpg</string>
+		<key>dataForModel</key>
+		<dict>
+			<key>name</key>
+			<string>Hồng Quế</string>
+			<key>height</key>
+			<string>1,79m</string>
+			<key>sodo3vong</key>
+			<string>87-60-90</string>
+		</dict>
+	</dict>
+	<key>Item7</key>
+	<dict>
+		<key>urlString</key>
+		<string>http://media.saoonline.vn/thumb_x600x/upload/396/2015/8/18/sao-viet-so-huu-than-hinh-chuan-saoonline-15.jpg</string>
+		<key>dataForModel</key>
+		<dict>
+			<key>name</key>
+			<string>Hoàng Yến</string>
+			<key>height</key>
+			<string>1,78m</string>
+			<key>sodo3vong</key>
+			<string>91-61-91</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
